@@ -35,7 +35,7 @@ The project is divided into three core analytical modules, each addressing a uni
 
 ## 📊 Key Deliverables
 - `Quantitative_Analysis_Models.xlsx`: The core engine containing simulation sheets, data tables, and automated calculations.
-- `Executive_Analysis_Report.pdf`: A comprehensive business report summarizing findings, statistical interpretations, and strategic recommendations.
+- `Case.pdf`: A comprehensive business report summarizing needs, statistical requirements, and strategic recommendations.
 
 ## 💡 How to Use
 1. Open the `.xlsx` file and navigate to the respective tabs for each case study.
